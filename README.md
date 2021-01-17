@@ -1,0 +1,2 @@
+# loro-jiwo
+File pertama
